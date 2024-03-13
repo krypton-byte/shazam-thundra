@@ -1,0 +1,8 @@
+[plugin]
+name="shazam"
+author="krypton-byte"
+dependencies = ["shazamio"]
+version = "0.1.0"
+
+[plugin.agent]
+includes = ["shazam-ai"]
